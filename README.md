@@ -1,1 +1,1 @@
-# BetterDiscord
+# _Jak.'s BetterDiscord Themes / Plugins
