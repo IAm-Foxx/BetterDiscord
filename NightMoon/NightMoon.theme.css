@@ -1,0 +1,53 @@
+/**
+* @name NightMoon
+* @version Auto Update
+* @description Night Moon Theme For BetterDiscord
+* @author _Jak.#6967
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://fonts.googleapis.com/css2?family=Lobster');
+:root {
+--background-image: url('https://i.redd.it/tur6ijxc9ev71.gif');
+--background-image-blur: 2px;
+--background-image-size: contain;
+--background-image-position: center;
+--popout-modal-image: url('https://i.redd.it/tur6ijxc9ev71.gif');
+--popout-modal-blur: 0px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://i.imgur.com/D6DlqwF.png');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.65;
+--middle-brightness: 0.5;
+--right-brightness: 0.3;
+--popout-modal-brightness: 0.65;
+--gradient-primary: 255,106,106;
+--gradient-secondary: 63,81,181;
+--gradient-direction: 251deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0.15;
+--window-padding: 20px;
+--window-roundness: 15px;
+--scrollbar-colour: #C935C28E;
+--link-colour: #3BD4F4FF;
+--show-gift-gif-buttons: none;
+--font: 'Lobster';
+--update-notice-1: none;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
